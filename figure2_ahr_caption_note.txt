@@ -1,0 +1,5 @@
+AhR branch — figure legend supplement
+
+The dashed link from gut-derived indole metabolites to AhR denotes an unresolved gut-derived ligand–pulmonary signaling connection. The solid AhR-to-immune modulation arrow, labeled Experimental PH, reflects direct evidence for AhR involvement in experimental pulmonary hypertension and pulmonary inflammatory responses from receptor-agonism and gene-knockout studies. This receptor-level evidence does not establish the pulmonary actions of specific gut-derived indole ligands or the complete gut-derived indole–AhR pathway in human PAH. No uniform protective or harmful direction or specific T-cell endpoint is assigned. The remaining revised figure legend can be retained; no IDO branch is added to Figure 2.
+
+Source supplied by the user: https://pmc.ncbi.nlm.nih.gov/articles/PMC7980441/
